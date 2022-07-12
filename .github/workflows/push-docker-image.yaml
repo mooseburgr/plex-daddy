@@ -26,4 +26,4 @@ jobs:
         uses: docker/build-push-action@v3
         with:
           push: true
-          tags: mooseburgr/plex-daddy:latest
+          tags: mooseburger/plex-daddy:latest
